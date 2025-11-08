@@ -73,8 +73,15 @@ a, a:visited, a:hover{
 
 .site-title::before{
 
-  content: url('https://digitalfishies.com/img/logo.svg');
-  height: 150px;
+
+
+   background-image: url('https://digitalfishies.com/img/logo.svg');
+    background-size: 150px 100px;
+    display: inline-block;
+    width: 150px;
+    height: 100px;
+    content:"";
+
 }
 
 .site-header {
