@@ -49,3 +49,7 @@ hr {
   font-size: 2.5em;
   opacity: 0.3;
 }
+
+.post-content > img{
+  border: 1px solid #999;
+}
