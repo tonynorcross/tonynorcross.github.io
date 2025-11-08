@@ -80,6 +80,8 @@ a, a:visited, a:hover{
     width: 150px;
     height: 100px;
     content:"";
+    background-repeat: no-repeat;
+    background-position: 0 0;
 
 }
 
