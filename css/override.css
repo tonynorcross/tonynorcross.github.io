@@ -63,6 +63,15 @@ a, a:visited, a:hover{
 .site-title, .site-title:visited {
     color: #fdfdfd;
     font-size: 45px;
+
+
+
+}
+
+.site-title::before{
+
+  content: url('https://digitalfishies.com/img/logo.svg');
+  height: 150px;
 }
 
 .site-header {
