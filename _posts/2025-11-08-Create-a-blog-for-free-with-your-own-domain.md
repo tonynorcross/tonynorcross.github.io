@@ -13,3 +13,5 @@ I then added  a custom domain name within the settings > pages in my repository.
 ![custom domain](/img/custom_domain.png)
 
 The only issue to this is... I think you need to be a developer to make this kind of blog.
+
+For comments, I'll need to hook in Utteranes (<https://utteranc.es/>{:target="_blank"}).
