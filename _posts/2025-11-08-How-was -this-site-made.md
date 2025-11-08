@@ -10,11 +10,11 @@ This was all made possible by following
 
 #This is a sample blog post. You can talk about all sorts of fun things here.
 
----
+# --- 
 
-### This is a header
+# ### This is a header
 
-#### Some T-SQL Code
+# #### Some T-SQL Code
 
 #```tsql
 #SELECT This, [Is], A, Code, Block -- Using SSMS style syntax highlighting
@@ -23,7 +23,7 @@ This was all made possible by following
 #    CROSS JOIN dbo.OtherTable o;
 #```
 
-#### Some PowerShell Code
+# #### Some PowerShell Code
 
 #```powershell
 #Write-Host "This is a powershell Code block";
