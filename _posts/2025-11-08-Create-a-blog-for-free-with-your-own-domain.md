@@ -1,4 +1,4 @@
-## Create a blog for free with your own domain?
+## Create a blog for free with your own domain
 
 All credit goes to Chad Baldwin - Thank you! 😊
 
