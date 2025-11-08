@@ -1,5 +1,2 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Just need to brain dump things I find out, so I don't need to rediscover stuff I've already done.
+Also, this will probably help other developers too.
