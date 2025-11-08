@@ -64,7 +64,10 @@ a, a:visited, a:hover{
     color: #fdfdfd;
     font-size: 45px;
 
-
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
 
 }
 
