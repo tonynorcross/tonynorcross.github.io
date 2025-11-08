@@ -1,6 +1,6 @@
 ## Create a blog for free with your own domain
 
-All credit goes to Chad Baldwin - Thank you! 😊
+This is not about .NET, but it is interesting. Credit goes to Chad Baldwin for all the base code - Thank you! 😊
 
 <https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html>{:target="_blank"}
 
