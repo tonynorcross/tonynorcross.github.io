@@ -57,3 +57,7 @@ hr {
 a, a:hover{
   color:white;
 }
+
+.site-title, .site-title:visited {
+    color: white;
+}
