@@ -14,4 +14,6 @@ I then added  a custom domain name within the settings > pages in my repository.
 
 The only issue is... I think you need to be a developer to do this.
 
-For comments, I'll need to hook in Utteranes (<https://utteranc.es/>{:target="_blank"}).
+For comments, you'll need to hook in Utteranes (<https://utteranc.es/>{:target="_blank"}).
+
+*Hint - the repo for me is "tonynorcross/tonynorcross.github.io".*
