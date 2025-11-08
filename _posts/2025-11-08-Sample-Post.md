@@ -1,6 +1,8 @@
 ## How was this blog made
 
-This was all made possible by following https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html
+This was all made possible by following 
+
+<https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html>{:target="_blank"}
 
 Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title.
 
