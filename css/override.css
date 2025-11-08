@@ -64,3 +64,11 @@ a, a:hover{
     color: #fdfdfd;
     font-weight: 700;
 }
+
+.site-header {
+    border-bottom: 1px solid #636363;
+}
+
+.site-footer{
+  border-top: 1px solid #636363;
+}
