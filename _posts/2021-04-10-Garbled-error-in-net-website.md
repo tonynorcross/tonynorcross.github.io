@@ -7,7 +7,7 @@ Where to start? It happens because modern browsers can handle compression sent f
 
 Well the fix is simple – it you know what to do. Just locate your Global.ascx file and update the Application_Error method.
 
-#```powershell
+#```tsql
 void Application_Error(object sender, EventArgs e) {
    if (HttpContext.Current.IsDebuggingEnabled) Response.Filter = null;
 }
