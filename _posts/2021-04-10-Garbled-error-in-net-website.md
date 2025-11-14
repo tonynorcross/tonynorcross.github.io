@@ -7,10 +7,11 @@ Where to start? It happens because modern browsers can handle compression sent f
 
 Well the fix is simple – it you know what to do. Just locate your Global.ascx file and update the Application_Error method.
 
+#```powershell
 void Application_Error(object sender, EventArgs e) {
    if (HttpContext.Current.IsDebuggingEnabled) Response.Filter = null;
 }
-
+#```
 
 By setting the Response.Filter to null while debugging, we are removing crompression from the output. This would also be the place where you may want to log any errors in your website too. But this article covers a quick fix to display on screen errors while developing. The garbbled characters then becomes magically legible.
 
