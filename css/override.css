@@ -102,6 +102,14 @@ h1,h2,h3,h4,h5,h6{
   font-style: normal;
 }
 
+
+pre, code {
+    font-size: 15px;
+    border: 1px solid #636363;
+    border-radius: 3px;
+    background-color: #1f1f1f;
+}
+
 @media screen and (max-width: 600px) {
     .site-nav {
         display:none;
