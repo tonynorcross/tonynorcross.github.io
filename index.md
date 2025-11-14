@@ -1,3 +1,3 @@
-General ASP.NET devemopment thoughts and discoveries.
+ASP.NET development, thoughts and discoveries.
 
-Maybe this could help other developers too.
+Could help other developers too?
